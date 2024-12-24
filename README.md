@@ -1,5 +1,3 @@
-# README
-
 # 👋 Hi there! I'm Adyaan Akram
 
 Welcome to my GitHub! I'm a passionate student pursuing a **dual major in Electrical Engineering and Biomedical Engineering** at the **University of Texas at Dallas**. My interests lie in the exciting intersection of AI, engineering, and healthcare.
@@ -50,12 +48,11 @@ Welcome to my GitHub! I'm a passionate student pursuing a **dual major in Electr
 6. **Emergency Response Predictive Tool**  
    A data-driven app to help hospitals manage patient surges during emergencies.
 
-
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Adyaan Akram](https://www.linkedin.com/in/adyaanakram/)
-- **Email**: adyaanakram@gmail.com
-- **GitHub**: [AdyaanAkram](https://github.com/AdyaanAkram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyaanakram/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdyaanAkram)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adyaanakram@gmail.com)
 
 ---
 
