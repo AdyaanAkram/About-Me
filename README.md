@@ -32,19 +32,29 @@ Welcome to my GitHub! I'm a passionate student pursuing a **dual major in Electr
 
 ## 📈 Current Projects
 
-1. **Emergency Response Predictive Tool**  
+1. **Teacher Assistant AI**  
+   Developing an AI-powered teaching assistant designed to assist educators with grading, answering student queries, and providing personalized learning insights.
+
+2. **Advanced AI Chatbot Systems**  
+   Developing sophisticated AI chatbots that utilize NLP and predictive analytics to enhance user experience, automate workflows, and integrate seamlessly into multi-platform environments.
+
+3. **AI Image Classification Project**  
+   Collaborating with IEEE to design an AI system for classifying images with high precision and speed, optimizing neural network architectures for real-world applications.
+
+4. **Catering Automation Platform**  
+   Created a dynamic website integrated with OpenAI to parse email requests for catering, generate automated responses, and handle customer follow-ups efficiently.
+
+5. **NLP Document Search Tool**  
+   Building a local desktop app that leverages natural language processing to search through documents intelligently, enhancing retrieval accuracy and user productivity.
+
+6. **Emergency Response Predictive Tool**  
    A data-driven app to help hospitals manage patient surges during emergencies.
 
-2. **AI Chatbot Development**  
-   Creating bots integrated with OpenAI to streamline customer interactions and automate workflows.
-
-3. **Document Search NLP Tool**  
-   Developing a local app using natural language processing to improve document retrieval efficiency.
 
 ## 📫 Let's Connect
 
 - **LinkedIn**: [Adyaan Akram](https://www.linkedin.com/in/adyaanakram/)
-- **Email**: adyaanakram@example.com (replace with your email)
+- **Email**: adyaanakram@gmail.com
 - **GitHub**: [AdyaanAkram](https://github.com/AdyaanAkram)
 
 ---
