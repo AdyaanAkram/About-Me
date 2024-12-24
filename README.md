@@ -38,14 +38,21 @@ Welcome to my GitHub! I'm a passionate student pursuing a **dual major in Electr
 
 3. **AI Image Classification Project**  
    Collaborating with IEEE to design an AI system for classifying images with high precision and speed, optimizing neural network architectures for real-world applications.
+   
+4. **Document Searcher**  
+   An intuitive search tool designed to find specific content across multiple file types (PDF, Word, text files) in real-time. Core functionalities include:
+   - Real-time search results with progress indicators
+   - Stop/Start capability and content search toggle
+   - Search across Desktop, Documents, and Downloads
+   - Provides detailed file information such as name, type, location, modified date, size, and match location (name/content)
 
-4. **Catering Automation Platform**  
+5. **Catering Automation Platform**  
    Created a dynamic website integrated with OpenAI to parse email requests for catering, generate automated responses, and handle customer follow-ups efficiently.
 
-5. **NLP Document Search Tool**  
+6. **NLP Document Search Tool**  
    Building a local desktop app that leverages natural language processing to search through documents intelligently, enhancing retrieval accuracy and user productivity.
 
-6. **Emergency Response Predictive Tool**  
+7. **Emergency Response Predictive Tool**  
    A data-driven app to help hospitals manage patient surges during emergencies.
 
 ## 📫 Let's Connect
